@@ -1,0 +1,11 @@
+{
+  "formal_input": "data/original/formal/因子库_10.xlsx",
+  "autogluon_input": "data/original/autogluon/merged_tier2.xlsx",
+  "formal_target": "二级5yYTM",
+  "autogluon_target": "tier2__二级资本债_5Y",
+  "start": "2019-01-02",
+  "validation_start": "2024-01-01",
+  "test_start": "2024-05-14",
+  "test_end": "2025-08-27",
+  "seed": 6109
+}

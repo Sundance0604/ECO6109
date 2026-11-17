@@ -1,0 +1,17 @@
+.venv/
+.venv-ag/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+__MACOSX/
+~$*
+*.log
+# Regenerable datasets; original selected inputs are intentionally retained.
+data/processed/
+# Trained binaries are not required for group review.
+results/autogluon/**/model/
+AutogluonModels/
+*.pkl
+*.pth
+*.pt

@@ -1,0 +1,24 @@
+{
+  "status": "passed",
+  "imported_files_verified": 83,
+  "independently_recomputed": {
+    "majority": {
+      "correct": 183,
+      "n": 323,
+      "accuracy": 0.56656346749226,
+      "f1": 0.7233201581027668
+    },
+    "persistence": {
+      "correct": 190,
+      "n": 323,
+      "accuracy": 0.5882352941176471,
+      "f1": 0.6376021798365122
+    }
+  },
+  "checks": [
+    "SHA256",
+    "label from next observed yield",
+    "chronological partition boundaries",
+    "accuracy and F1 via csv counts"
+  ]
+}

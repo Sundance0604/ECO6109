@@ -1,0 +1,14 @@
+* text=auto
+*.md text eol=lf
+*.py text eol=lf
+*.json text eol=lf
+*.ipynb text eol=lf
+*.csv text eol=lf
+*.docx binary
+*.xlsx binary
+*.png binary
+# Preserve source snapshot bytes so the provenance SHA256 checks also pass after clone.
+legacy/** -text
+data/original/** -text
+results/legacy/** -text
+docs/references/** -text

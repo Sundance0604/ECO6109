@@ -1,0 +1,11 @@
+-r requirements.txt
+scikit-learn>=1.4,<2
+# Only needed when reviewing the archived notebooks:
+lightgbm
+xgboost
+optuna
+matplotlib
+seaborn
+scipy
+jupyterlab
+# Sequence-model notebooks additionally require torch; install separately as needed.
