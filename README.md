@@ -6,6 +6,8 @@
 
 ## 先读这些文件
 
+**第一次接触项目、不会使用 GitHub 或 Wind 的组员，请先读 [项目说明与 Wind 数据提取指南](项目说明_组员必读.md)。** 其中包含直接下载 ZIP 的方法、数据内容、Wind 指标代码和提取示例。
+
 1. [课程要求与时间表](docs/COURSE_REQUIREMENTS.md)：对照原始 `Guidance on Project.docx`。
 2. [研究路径与已知问题](docs/RESEARCH.md)：两套样本、标签差异、历史结果的使用边界。
 3. [协作约定与任务表](docs/COLLABORATION.md)：分工、文件规则、提交检查。
