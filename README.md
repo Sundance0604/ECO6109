@@ -11,7 +11,7 @@
 1. [课程要求与时间表](docs/COURSE_REQUIREMENTS.md)：对照原始 `Guidance on Project.docx`。
 2. [研究路径与已知问题](docs/RESEARCH.md)：两套样本、标签差异、历史结果的使用边界。
 3. [协作约定与任务表](docs/COLLABORATION.md)：分工、文件规则、提交检查。
-4. [Proposal 英文草稿](deliverables/proposal_draft.md)：补齐成员信息后压成一页，尚未提交。
+4. [一页英文 Proposal Word 版](deliverables/ECO6109_Project_Proposal.docx)及 [Markdown 正文](deliverables/proposal.md)：用于 2026 年 11 月 20 日的 proposal 提交。
 5. [数据目录说明](data/README.md)与 [来源清单](data/SOURCE_MANIFEST.csv)：定位输入、版本和 SHA256。
 6. [Word 研究报告](docs/references/固收量化报告-机器学习.docx)：实习时期报告原件，作为历史研究参考；课程原始要求见 [Guidance on Project.docx](Guidance%20on%20Project.docx)。
 
